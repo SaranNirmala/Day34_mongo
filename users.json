@@ -5,49 +5,49 @@
       "email": "user1@gmail.com",
       "dateOfJoin": "15-03-2021",
       "password": "pass1",
-      "score": 80,
-      "problemsSolved":10,
-      "batchNo": 3
+      "score": 90,
+      "problemsSolved":45,
+      "batchNo": 1
     },
     {
         "userId": 2,
         "uName": "user2",
         "email": "user2@gmail.com",
-        "dateOfJoin": "15-03-2021",
-        "password": "pass1",
-        "score": 80,
-        "problemsSolved":10,
-        "batchNo": 3
+        "dateOfJoin": "18-04-2021",
+        "password": "pass2",
+        "score":60,
+        "problemsSolved":30,
+        "batchNo": 2
     },
     {
         "userId":3,
       "uName": "user3",
       "email": "user3@gmail.com",
-      "dateOfJoin": "15-03-2021",
+      "dateOfJoin": "20-03-2021",
       "password": "pass1",
       "score": 80,
-      "problemsSolved":10,
+      "problemsSolved":40,
       "batchNo": 3
     },
     {
         "userId":4,
         "uName": "user4",
         "email": "user4@gmail.com",
-        "dateOfJoin": "15-03-2021",
-        "password": "pass1",
-        "score": 80,
-        "problemsSolved":10,
-        "batchNo": 3
+        "dateOfJoin": "1-10-2021",
+        "password": "pass3",
+        "score": 50,
+        "problemsSolved":25,
+        "batchNo": 2
     },
     {
         "userId":5,
         "uName": "user5",
         "email": "user5@gmail.com",
-        "dateOfJoin": "15-03-2021",
-        "password": "pass1",
-        "score": 80,
-        "problemsSolved":10,
-        "batchNo": 3
+        "dateOfJoin": "15-10-2021",
+        "password": "pass4",
+        "score": 40,
+        "problemsSolved":20,
+        "batchNo": 4
     }
   
   ]
