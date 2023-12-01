@@ -1,0 +1,47 @@
+ [
+      {
+        "topicId": 1,
+        "topic": "HTML CSS",
+        "date":"20-09-2020",
+        "task":[1,2,3],
+        "present":[2,4,5],
+        "absent":[1,3]
+      },
+      {
+        "topicId": 2,
+        "topicName": "JavaScript",
+        "date":"15-10-2020",
+        "task":[3,4,5],
+        "present":[3,4,5],
+        "absent":[1,2]
+       
+      },
+      {
+        "topicId": 3,
+        "topicName": "React",
+        "date":"20-10-2020",
+        "task":[1,2,3,4,5],
+        "present":[1,2,3],
+        "absent":[4,5]
+      
+      },
+      {
+        "topicId": 4,
+        "topicName": "Node",
+        "date":"02-11-2020",
+        "task":[3,5],
+        "present":[2,4],
+        "absent":[1,3,5]
+      },
+      {
+        "topicId": 5,
+        "topicName": "mongodb",
+        "date":"30-10-2020",
+        "task":[1,2,4],
+        "present":[2,4,5],
+        "absent":[1,3]
+      }
+     
+    ]
+
+  

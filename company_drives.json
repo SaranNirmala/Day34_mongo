@@ -1,0 +1,44 @@
+[
+    {
+        "cID":"1",
+        "cName":"Google Inc.",
+        "driveType":"experience",
+        "driveDate":"8-10-2020",
+        "appearedStudents":[2,3,4,5]
+    },
+    {
+        "cID":"2",
+        "cName":"TCS Inc",
+        "driveType":"experience",
+        "driveDate":"20-10-2020",
+        "appearedStudents":[1,5]
+    },
+    {
+        "cID":"3",
+        "cName":"Cognito Inc",
+        "driveType":"Fresher",
+        "driveDate":"15-10-2020",
+        "appearedStudents":[1,3,4]
+    },
+    {
+        "cID":"4",
+        "cName":"CTS",
+        "driveType":"Fresher",
+        "driveDate":"23-10-2020",
+        "appearedStudents":[1,4]
+    },
+    {
+        "cID":"5",
+        "cName":"Wipro",
+        "driveType":"Fresher",
+        "driveDate":"05-10-2020",
+        "appearedStudents":[2,4,5]
+    },
+    {
+        "cID":"6",
+        "cName":"IBM",
+        "driveType":"experience",
+        "driveDate":"02-11-2020",
+        "appearedStudents":[1,5]
+    }
+]

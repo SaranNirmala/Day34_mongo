@@ -1,0 +1,39 @@
+[
+    {
+      "codekataid": 1,
+      "problem":{
+           "solved":"30",
+           "unSolved":"70"
+      }
+    },
+    {
+      "codekataid": 2,
+      "problem":{
+        "solved":"47",
+        "unSolved":"53"
+   }
+    },
+    {
+      "codekataid": 3,
+      "problem":{
+        "solved":"26",
+        "unSolved":"74"
+   }
+    },
+    {
+      "codekataid": 4,
+      "problem":{
+        "solved":"49",
+        "unSolved":"51"
+   }
+    },
+    {
+      "codekataid":5,
+      "problem":{
+        "solved":"20",
+        "unSolved":"80"
+   }
+    }
+   
+  ]
+  

@@ -1,0 +1,53 @@
+[
+    {
+      "userId": 1,
+      "uName": "user1",
+      "email": "user1@gmail.com",
+      "dateOfJoin": "15-03-2021",
+      "password": "pass1",
+      "score": 80,
+      "problemsSolved":10,
+      "batchNo": 3
+    },
+    {
+        "userId": 2,
+        "uName": "user2",
+        "email": "user2@gmail.com",
+        "dateOfJoin": "15-03-2021",
+        "password": "pass1",
+        "score": 80,
+        "problemsSolved":10,
+        "batchNo": 3
+    },
+    {
+        "userId":3,
+      "uName": "user3",
+      "email": "user3@gmail.com",
+      "dateOfJoin": "15-03-2021",
+      "password": "pass1",
+      "score": 80,
+      "problemsSolved":10,
+      "batchNo": 3
+    },
+    {
+        "userId":4,
+        "uName": "user4",
+        "email": "user4@gmail.com",
+        "dateOfJoin": "15-03-2021",
+        "password": "pass1",
+        "score": 80,
+        "problemsSolved":10,
+        "batchNo": 3
+    },
+    {
+        "userId":5,
+        "uName": "user5",
+        "email": "user5@gmail.com",
+        "dateOfJoin": "15-03-2021",
+        "password": "pass1",
+        "score": 80,
+        "problemsSolved":10,
+        "batchNo": 3
+    }
+  
+  ]
